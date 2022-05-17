@@ -1,0 +1,7 @@
+License:
+Working 5 speed transmission model for Toyota 22RE engine (https://www.thingiverse.com/thing:713815/files)
+by ericthepoolboyis (thingiverse.com)
+
+Licensed under the Creative Commons - Attribution - Non-Commercial license. 
+By downloading this thing, you agree to abide by the license:
+Creative Commons - Attribution - Non-Commercial - No Derivatives
